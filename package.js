@@ -1,8 +1,8 @@
 Package.describe({
-  summary: 'Accounts Templates styled for Materialize Css.',
-  version: '1.12.4',
-  name: 'useraccounts:materialize',
-  git: 'https://github.com/meteor-useraccounts/materialize.git',
+  summary: 'Accounts Templates styled for Materialize Css, customized for full page forms.',
+  version: '0.0.1',
+  name: 'jjeffwarner:alt-useraccounts-materialize',
+  git: 'git@github.com:jjeffwarner/materialize.git',
 });
 
 Package.on_use(function(api, where) {
